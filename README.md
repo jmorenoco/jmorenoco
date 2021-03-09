@@ -4,6 +4,17 @@
 
 I'm determined to increase and improve in the latest **Frontend technologies**. Highly adaptable, goal-oriented, creative and cheerful. Skilled to Leadership, teamwork and interpersonal relations. I never stop learning.
 
+### Languages, Frameworks and Tools I use and I have worked with:
+
+![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-555555?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-555555?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-444444?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobe-photoshop)
+![Adobe XD](https://img.shields.io/badge/-XD-333333?style=flat-square&logo=adobe-xd)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma)
+
 ### 💻 This is my portfolio:
 ✨ [javandresmoreno](https://javandresmoreno.github.io/personal-portfolio)
 
