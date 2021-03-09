@@ -7,14 +7,6 @@ I'm determined to increase and improve in the latest **Frontend technologies**. 
 ### 💻 This is my portfolio:
 ✨ [javandresmoreno](https://javandresmoreno.github.io/personal-portfolio)
 
-### 🧑 Platzi profile:
-<p align="Left"> 
-<a href="https://platzi.com/p/javandresmoreno/">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/platzi.svg" alt="Javier Moreno Platzi Profile" height="15" width="15" fill="#98ca3f">
-   Javier Moreno's Platzi Profile
-</a>
-</p>
-
 
 ### 🔥 You can catch me on:
 <p align="left">
@@ -23,5 +15,8 @@ I'm determined to increase and improve in the latest **Frontend technologies**. 
 </a> &nbsp &nbsp
 <a href="https://twitter.com/javandresmoreno">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Javier Moreno Twitter Profile" height="20" width="20">
-  </a>
+</a> &nbsp &nbsp
+<a href="https://platzi.com/p/javandresmoreno/">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/platzi.svg" alt="Javier Moreno Platzi Profile" height="20" width="20">
+</a>
 </p>
