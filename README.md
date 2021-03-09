@@ -1,8 +1,8 @@
 ![javandresmoreno](https://media-exp1.licdn.com/dms/image/C4D16AQGOBeAD9ZYr7g/profile-displaybackgroundimage-shrink_350_1400/0/1612547147028?e=1620864000&v=beta&t=P0gl7RAoSuZIqA041gPT4XbKgYMWcx_mg021xxUlj44)
 ---
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm [Javier Moreno](https://javandresmoreno.github.io/personal-portfolio)!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm [Javier Moreno]! from Bogotá, Colombia (https://javandresmoreno.github.io/personal-portfolio)
 
-I'm determined to increase and improve in the latest **Frontend technologies**. Highly adaptable, goal-oriented, creative and cheerful. Skilled to Leadership, teamwork and interpersonal relations. I never stop learning. 
+I'm determined to increase and improve in the latest **Frontend technologies**. Highly adaptable, goal-oriented, creative and cheerful. Skilled to Leadership, teamwork and interpersonal relations. I never stop learning.
 
 ### 💻 This is my portfolio:
 ✨ [javandresmoreno](https://javandresmoreno.github.io/personal-portfolio)
