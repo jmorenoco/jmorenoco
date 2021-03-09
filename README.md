@@ -2,7 +2,7 @@
 ---
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm [Javier Moreno](https://javandresmoreno.github.io/personal-portfolio)!
 
-I've determined to increase and improve in the latest **Frontend technologies**. Highly adaptable, goal-oriented, creative and cheerful. Skilled to Leadership, teamwork and interpersonal relations. I never stop learning. 
+I'm determined to increase and improve in the latest **Frontend technologies**. Highly adaptable, goal-oriented, creative and cheerful. Skilled to Leadership, teamwork and interpersonal relations. I never stop learning. 
 
 ### 💻 This is my portfolio:
 ✨ [javandresmoreno](https://javandresmoreno.github.io/personal-portfolio)
