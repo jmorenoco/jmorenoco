@@ -4,7 +4,7 @@
 
 I'm determined to increase and improve in the latest **Frontend technologies**. Highly adaptable, goal-oriented, creative and cheerful. Skilled to Leadership, teamwork and interpersonal relations. I never stop learning.
 
-### Languages, Frameworks and Tools I use and I have worked with:
+### 🤖 Languages, Frameworks and Tools I use and I have worked with:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-555555?style=flat&logo=css3)
