@@ -31,3 +31,5 @@ I'm determined to increase and improve in the latest **Frontend technologies**. 
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6f61865e4de3a772c5be475db8c2cb3ef923f082/icons/platzi.svg" alt="Javier Moreno Platzi Profile" height="20" width="20">
 </a>
 </p>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=javandresmoreno&hide=issues&show_icons=true&theme=radical)
