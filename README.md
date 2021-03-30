@@ -16,7 +16,7 @@ I'm determined to increase and improve in the latest **Frontend technologies**. 
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma)
 
 ### 💻 This is my portfolio:
-✨ [javandresmoreno](https://javandresmoreno.github.io/personal-portfolio)
+✨ [javandresmoreno](https://javiermoreno.solido.co)
 
 
 ### 🔥 You can catch me on:
