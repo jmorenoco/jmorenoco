@@ -1,4 +1,4 @@
-![javandresmoreno](https://media-exp1.licdn.com/dms/image/C4E16AQFRpef0qYoGng/profile-displaybackgroundimage-shrink_350_1400/0/1615263184557?e=1620864000&v=beta&t=6sw1dopxWINSx97xSBPV5BYLJru5PkF7ziYO65C9tO4)
+![javandresmoreno](https://pbs.twimg.com/profile_banners/100625181/1612656533/1080x360)
 ---
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm [Javier Moreno](https://javandresmoreno.github.io/personal-portfolio) from Bogotá, Colombia!
 
