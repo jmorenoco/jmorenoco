@@ -1,6 +1,6 @@
 ![javandresmoreno](https://pbs.twimg.com/profile_banners/100625181/1612656533/1080x360)
 ---
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm [Javier Moreno](https://javandresmoreno.github.io/personal-portfolio) from Bogotá, Colombia!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm [Javier Moreno](https://javandresmoreno.com) from Bogotá, Colombia!
 
 I'm determined to increase and improve in the latest **Frontend technologies**. Highly adaptable, goal-oriented, creative and cheerful. Skilled to Leadership, teamwork and interpersonal relations. I never stop learning.
 
