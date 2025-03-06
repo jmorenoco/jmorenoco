@@ -1,6 +1,6 @@
-![javandresmoreno](https://pbs.twimg.com/profile_banners/100625181/1612656533/1080x360)
+![jmoreno.co](https://media.licdn.com/dms/image/v2/D4E16AQHS7TdDVi7ZbQ/profile-displaybackgroundimage-shrink_350_1400/B4EZVnXBPCHgAY-/0/1741195843023?e=1746662400&v=beta&t=puo78FGQ-RwKpSP47HNVEgJEnpFa0SMZzPEu6oYAOi4)
 ---
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm [Javier Moreno](https://javandresmoreno.com) from Bogotá, Colombia!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm [Javier Moreno](https://jmoreno.co) from Bogotá, Colombia!
 
 I'm determined to increase and improve in the latest **Frontend technologies**. Highly adaptable, goal-oriented, creative and cheerful. Skilled to Leadership, teamwork and interpersonal relations. I never stop learning.
 
@@ -16,7 +16,7 @@ I'm determined to increase and improve in the latest **Frontend technologies**. 
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma)
 
 ### 💻 This is my portfolio:
-✨ [javandresmoreno](https://javandresmoreno.com)
+✨ [jmoreno.co](https://jmoreno.co)
 
 
 ### 🔥 You can catch me on:
