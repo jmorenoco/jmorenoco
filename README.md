@@ -21,10 +21,10 @@ I'm determined to increase and improve in the latest **Frontend technologies**. 
 
 ### 🔥 You can catch me on:
 <p align="left">
-<a href="https://www.linkedin.com/in/javandresmoreno/" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/in/jmorenoco/" target="_blank" rel="noopener">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Javier Moreno LinkedIn Profile" height="20" width="20">
 </a> &nbsp &nbsp
-<a href="https://twitter.com/javandresmoreno" target="_blank" rel="noopener">
+<a href="https://twitter.com/jmorenoco" target="_blank" rel="noopener">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="Javier Moreno Twitter Profile" height="20" width="20">
 </a> &nbsp &nbsp
 <a href="https://platzi.com/p/javandresmoreno/" target="_blank" rel="noopener">
