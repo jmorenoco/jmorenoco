@@ -1,4 +1,4 @@
-![jmoreno.co](https://media.licdn.com/dms/image/v2/D4E16AQHS7TdDVi7ZbQ/profile-displaybackgroundimage-shrink_350_1400/B4EZVnXBPCHgAY-/0/1741195843023?e=1746662400&v=beta&t=puo78FGQ-RwKpSP47HNVEgJEnpFa0SMZzPEu6oYAOi4)
+![jmoreno.co](https://media.licdn.com/dms/image/v2/D4E16AQHS7TdDVi7ZbQ/profile-displaybackgroundimage-shrink_350_1400/B4EZVnXBPCHgAY-/0/1741195843023?e=1755129600&v=beta&t=PjT6EwdiwFQiedKsoGjFqpE1lkU3Bm2SREBkAhN5oxo)
 ---
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I'm [Javier Moreno](https://jmoreno.co) from Bogotá, Colombia!
 
